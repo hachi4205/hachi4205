@@ -4,10 +4,11 @@
 
 I work at the intersection of business and data, with a focus on credit risk, financial analytics, and consulting-style problem solving.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Ha%20Chi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenhachi/)
-[![Email](https://img.shields.io/badge/Email-[your--email]%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhachi4205@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-hachi4205-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hachi4205)
+<p align="center">
+<a href="https://www.linkedin.com/in/nguyenhachi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nguyenhachi4205@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/hachi4205"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 "Without data, you're just another person with an opinion." - W.Edwards Deming
 
