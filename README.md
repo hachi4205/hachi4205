@@ -1,6 +1,13 @@
 ## Hi, I'm Ha Chi 👋
 
-International Commerce major with a double major in Applied Information Engineering at **Yonsei University**. I'm interested in the space where **business decisions meet data**, particularly **credit risk, financial analytics, and consulting-style problem solving**.
+**Aspiring credit risk & business analyst** — International Commerce × Applied Information Engineering @ Yonsei University.
+
+I work at the intersection of business and data, with a focus on credit risk, financial analytics, and consulting-style problem solving.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Ha%20Chi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenhachi/)
+[![Email](https://img.shields.io/badge/Email-[your--email]%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhachi4205@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hachi4205-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hachi4205)
 
 "Without data, you're just another person with an opinion." - W.Edwards Deming
 
